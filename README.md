@@ -57,5 +57,5 @@ pyhton main.py
 ## Authors
 
 Contributors names and contact info
-- Çağan Çakır
 - Janok N. Dinçer
+- Çağan Çakır
